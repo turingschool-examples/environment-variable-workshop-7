@@ -26,6 +26,8 @@ For this exercise:
 - Navigate to `localhost:3000/demo`
   - If you've set everything up correctly, you should see the value of your ENV var displayed.
 
+Note: If you make changes to your `application.yml` file, you will need to restart your server for the changes to take effect.
+
 ## What now?
 
 Once you have your ENV var working, try changing the value and reloading the page.
